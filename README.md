@@ -6,15 +6,15 @@ This 2 projects are made within 24 hours(1 day Project). So, I really want to sa
 <br/><br/>
 
 <img src="./40890.gif" width="100%" /><br/>
-@TASK 1:Backend <br/>
-Core Functions :<br/> /GET,/POST,/PUT,/DESTROY in backend side. <br/>
-Mainly Built with :<br/> [NodeJS, Mongodb, ExpressJS, JSON]
+<b>@TASK 1:Backend </b><br/>
+<b>Core Functions :</b><br/> /GET,/POST,/PUT,/DESTROY in backend side. <br/>
+<b>Mainly Built with :</b><br/> [NodeJS, Mongodb, ExpressJS, JSON]
 <br/><hr/><br/>
 
 <img src="./40699.gif" width="100%" /><br/>
-@TASK 2:Frontend <br/>
-Core Functions :<br/> CRUD, Authentication system, User permission control, LMS Platform, Author's content ADD,EDIT,UPDATE,DELETE <br/>
-Mainly Built with :<br/> [PHP, Bootstrap 4, HTML, CSS, MySql, Restful API, CKEditor]
+<b>@TASK 2:Frontend </b><br/>
+<b>Core Functions :</b><br/> CRUD, Authentication system, User permission control, LMS Platform, Author's content ADD,EDIT,UPDATE,DELETE <br/>
+<b>Mainly Built with :</b><br/> [PHP, Bootstrap 4, HTML, CSS, MySql, Restful API, CKEditor]
 <br/><hr/><br/>
 <b><u>#SetUp and Deployment</u></b>
 <br/><br/>
@@ -24,7 +24,6 @@ Mainly Built with :<br/> [PHP, Bootstrap 4, HTML, CSS, MySql, Restful API, CKEdi
 -3)npm install.
 <br/><br/>
 @ Task2:Frontend <br/>
-
 -1)Run XAMPP or any other tools for localhost/phpmyadmin. <br/>
 -2)Import DB-Table file called 'kklms.sql'.<br/>
 -3)Check whether the root folder already named as 'kklms'.<br/>
