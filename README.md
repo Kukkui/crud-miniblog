@@ -15,3 +15,4 @@ Mainly Built with : [PHP, Bootstrap 4, HTML, CSS, MySql, Restful API, CKEditor]
 <br/><br/>
 <hr/>
 
+SetUp and Deployment
