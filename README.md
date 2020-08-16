@@ -1,23 +1,21 @@
 Sertis Backend&Frontend Exam
 miniblog-crud-post/courses/quizz content
 <hr/><br/>
-<img src="./40699.gif" width="100%" />
-<hr/>
-<b>#Instructions</b> <br/>
+<b><u>#Instructions<</u>/b> <br/>
 This 2 projects are made within 24 hours(1 day Project). So, I really want to say sorry if there are any kinds of <em><b><u>non-clean code format</u></b>, <b><u>missing some inline comments</u></b> and <b><u>uncomfortable deployment.</u></b></em>
 <br/><br/>
 @Task1:Backend <br/>
-<img src="./40890.gif" width="100%" /><hr/><br/>
+<img src="./40890.gif" width="100%" /><br/>
 Core Functions : /GET,/POST,/PUT,/DESTROY in backend side. <br/>
 Mainly Built with : [NodeJS, Mongodb, ExpressJS, JSON]
-<br/><br/>
+<br/><hr/><br/>
 @Task2:Frontend <br/>
-<img src="./40699.gif" width="100%" /><hr/><br/>
+<img src="./40699.gif" width="100%" /><br/>
 Core Functions : CRUD, Authentication system, User permission control, LMS Platform, Author's content ADD,EDIT,UPDATE,DELETE <br/>
 Mainly Built with : [PHP, Bootstrap 4, HTML, CSS, MySql, Restful API, CKEditor]
-<br/><br/>
+<br/><hr/><br/>
 <hr/>
-<b>#SetUp and Deployment</b>
+<b><u>#SetUp and Deployment</u></b>
 <br/><br/>
 @ Task1:Backend <br/>
 -1)Download the project or clone my repo.<br/>
