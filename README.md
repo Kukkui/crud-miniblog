@@ -3,7 +3,7 @@ miniblog-crud-post/courses/quizz content
 <hr/><br/>
 <img src="./40699.gif" width="100%" />
 <hr/>
-#Instructions
+<b>#Instructions</b>
 <br/>
 @Task1:Backend
 Mainly Built with : [NodeJS, Mongodb, ExpressJS, JSON]
