@@ -19,9 +19,9 @@ Mainly Built with : [PHP, Bootstrap 4, HTML, CSS, MySql, Restful API, CKEditor]
 <b>#SetUp and Deployment</b>
 <br/><br/>
 @ Task1:Backend <br/>
--1)
--2)
--3)
+-1)Download the project or clone my repo.<br/>
+-2)Open terminal inside the rootfolder of Task1 OR cd crud-miniblog/Node.js-MySQL-CRUD-Operations.<br/>
+-3)npm install.
 <br/><br/>
 @ Task2:Frontend <br/>
 -1)Run XAMPP or any other tools for localhost/phpmyadmin. <br/>
@@ -29,6 +29,6 @@ Mainly Built with : [PHP, Bootstrap 4, HTML, CSS, MySql, Restful API, CKEditor]
 -3)Check whether the root folder already named as 'kklms'.<br/>
 -4)Edit the 'dbconnect.php' file for set the database credentials follow by your database system environments(such as: username,password,port).<br/>
 -5)Move this folder into the right path directory to start a deployment(such as: set the 'kklms' folder to be at ':C/xampp/htdocs/kklms'.<br/>
--6)Done! Visit the url and navigate to 'http://localhost/kklms/'.
+-6)Done! Visit the url and navigate to : 'http://localhost/kklms/'
 <br/><br/>
 <hr/>
