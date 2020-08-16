@@ -1,7 +1,7 @@
 Sertis Backend&Frontend Exam
 miniblog-crud-post/courses/quizz content
 <hr/><br/>
-<b><u>#Instructions<</u>/b> <br/>
+<b><u>#Instructions</u></b><br/>
 This 2 projects are made within 24 hours(1 day Project). So, I really want to say sorry if there are any kinds of <em><b><u>non-clean code format</u></b>, <b><u>missing some inline comments</u></b> and <b><u>uncomfortable deployment.</u></b></em>
 <br/><br/>
 @Task1:Backend <br/>
