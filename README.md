@@ -7,15 +7,16 @@ miniblog-crud-post/courses/quizz content
 This 2 projects are made within 24 hours(1 day Project). So, I really want to say sorry if there are any kinds of <em><b><u>non-clean code format</u></b>, <b><u>missing some inline comments</u></b> and <b><u>uncomfortable deployment.</u></b></em>
 <br/><br/>
 @Task1:Backend <br/>
+<img src="./40890.gif" width="100%" /><hr/><br/>
 Core Functions : /GET,/POST,/PUT,/DESTROY in backend side. <br/>
 Mainly Built with : [NodeJS, Mongodb, ExpressJS, JSON]
 <br/><br/>
 @Task2:Frontend <br/>
+<img src="./40699.gif" width="100%" /><hr/><br/>
 Core Functions : CRUD, Authentication system, User permission control, LMS Platform, Author's content ADD,EDIT,UPDATE,DELETE <br/>
 Mainly Built with : [PHP, Bootstrap 4, HTML, CSS, MySql, Restful API, CKEditor]
 <br/><br/>
 <hr/>
-
 <b>#SetUp and Deployment</b>
 <br/><br/>
 @ Task1:Backend <br/>
@@ -24,6 +25,7 @@ Mainly Built with : [PHP, Bootstrap 4, HTML, CSS, MySql, Restful API, CKEditor]
 -3)npm install.
 <br/><br/>
 @ Task2:Frontend <br/>
+
 -1)Run XAMPP or any other tools for localhost/phpmyadmin. <br/>
 -2)Import DB-Table file called 'kklms.sql'.<br/>
 -3)Check whether the root folder already named as 'kklms'.<br/>
