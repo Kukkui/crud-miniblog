@@ -6,24 +6,24 @@ This 2 projects are made within 24 hours(1 day Project). So, I really want to sa
 <br/><br/>
 
 <img src="./40890.gif" width="100%" /><br/>
-<b>@TASK 1:Backend </b><br/>
+<b>@TASK 1:Backend </b><br/><br/>
 <b>Core Functions :</b><br/> /GET,/POST,/PUT,/DESTROY in backend side. <br/>
 <b>Mainly Built with :</b><br/> [NodeJS, Mongodb, ExpressJS, JSON]
 <br/><hr/><br/>
 
 <img src="./40699.gif" width="100%" /><br/>
-<b>@TASK 2:Frontend </b><br/>
+<b>@TASK 2:Frontend </b><br/><br/>
 <b>Core Functions :</b><br/> CRUD, Authentication system, User permission control, LMS Platform, Author's content ADD,EDIT,UPDATE,DELETE <br/>
 <b>Mainly Built with :</b><br/> [PHP, Bootstrap 4, HTML, CSS, MySql, Restful API, CKEditor]
 <br/><hr/><br/>
 <b><u>#SetUp and Deployment</u></b>
 <br/><br/>
-@ Task1:Backend <br/>
+<b> @ Task1:Backend </b> <br/>
 -1)Download the project or clone my repo.<br/>
 -2)Open terminal inside the rootfolder of Task1 OR cd crud-miniblog/Node.js-MySQL-CRUD-Operations.<br/>
 -3)npm install.
 <br/><br/>
-@ Task2:Frontend <br/>
+<b> @ Task2:Frontend </b> <br/>
 -1)Run XAMPP or any other tools for localhost/phpmyadmin. <br/>
 -2)Import DB-Table file called 'kklms.sql'.<br/>
 -3)Check whether the root folder already named as 'kklms'.<br/>
