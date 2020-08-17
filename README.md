@@ -21,7 +21,8 @@ This 2 projects are made within 24 hours(1 day Project). So, I really want to sa
 <b> @ Task1:Backend </b> <br/>
 -1)Download the project or clone my repo.<br/>
 -2)Open terminal inside the root folder of Task1 <b>OR</b> 'cd crud-miniblog/Task1_Backend_CRUD/BackendCRUD(NodeJS,Express,Mongo)'<br/>
--3)'npm install'
+-3)'npm install'<br/>
+-4)Edit DB in 'app/config/db.config.js' as your DB environment
 <br/><br/>
 <b> @ Task2:Frontend </b> <br/>
 -1)Run XAMPP or any other tools for localhost/phpmyadmin. <br/>
