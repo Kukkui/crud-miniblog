@@ -7,8 +7,8 @@ This 2 projects are made within 24 hours(1 day Project). So, I really want to sa
 
 <img src="./Task1 : Backend/backend_restful_api.gif" width="100%" /><br/>
 <b>@TASK 1:Backend </b><br/><br/>
-<b>Core Functions :</b><br/> /GET,/POST,/PUT,/DESTROY in backend side. <br/>
-<b>Mainly Built with :</b><br/> [NodeJS, Mongodb, ExpressJS, JSON]
+<b>Core Functions :</b><br/> /GET,/POST,/PUT,/DELETE in backend side. <br/>
+<b>Mainly Built with :</b><br/> [RestfulAPI, NodeJS, Mongodb, ExpressJS, JSON]
 <br/><hr/><br/>
 
 <img src="./40698.gif" width="100%" /><br/>
