@@ -1,0 +1,10 @@
+<img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13.png" width="33%"/>
+<img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13(1).png" width="33%"/>
+<img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13(2).png" width="33%"/>
+<img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13(3).png" width="33%"/>
+<img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13(4).png" width="33%"/>
+<img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13(5).png" width="33%"/>
+<img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13(6).png" width="33%"/>
+<img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13(7).png" width="33%"/>
+<img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13(8).png" width="33%"/>
+<img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13(9).png" width="33%"/>
