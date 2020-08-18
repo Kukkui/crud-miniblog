@@ -15,7 +15,7 @@
 -1)Start terminal at root folder(BACKEND#1)<br/>
 -2)Type in "node index.js"<br/>
 -3)Navigate url: "http://localhost:3000/"
-<br/><br/><hr/>
+<br/><br/>
 <b>BACKEND#2</b> <br/>
 -1)Download the project or clone my repo.<br/>
 -2)Open terminal inside the root folder of Task1 <b>OR</b> 'cd crud-miniblog/Task1_Backend_CRUD/BackendCRUD(NodeJS,Express,Mongo)'<br/>
@@ -23,4 +23,4 @@
 -4)Edit DB in 'app/config/db.config.js' as your DB environment<br/>
 -5)Done! Now navigate to url : 'http://localhost:8080'
 <br/><br/>
-
+<hr/>
