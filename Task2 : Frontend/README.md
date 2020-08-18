@@ -1,3 +1,7 @@
+<b>Frontend Freely Design for posted contents&articles. along with CRUD,RestfulAPI,Database and other backend systems.
+This system the "Authorize status" and "Account credentials" will be classified at the 'Admin' page menu on the left hand side of the screen.
+If current user are 'ADMIN', the menu will be shown.
+Otherwise will depend on each different conditions</b><br/>
 @To Run:<br/><br/>
 -1)Run XAMPP or any other tools for localhost/phpmyadmin.<br/>
 -2)Import DB-Table file called 'kklms.sql'.<br/>
@@ -9,7 +13,6 @@
 <b>Username</b> : admin<br/>
 <b>Password</b> : 1234 <br/>
 <hr/><br/>
-<img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13.png" width="100%"/>
 <img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13 (1).png" width="100%"/>
 <img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13 (2).png" width="100%"/>
 <img src="https://github.com/Kukkui/crud-miniblog/blob/master/Task2%20:%20Frontend/Screenshots/2020-08-13 (3).png" width="100%"/>
