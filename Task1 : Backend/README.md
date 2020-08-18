@@ -1,6 +1,6 @@
 Note<br/>
 
-1) For non mongodb version is for Quick Deployment!
+#1) For non mongodb version is for Quick Deployment!
 <br/>To see the Restful API without MongoDB,Router and etc.
 <br/>
 Deployment : <br/>
@@ -9,7 +9,7 @@ Deployment : <br/>
 -3)Navigate url: "http://localhost:3000/"
 
 <br/><br/>
-2) For MongoDB version is for General Deployment!
+#2) For MongoDB version is for General Deployment!
 <br/>To see all of Restful API,Router,Body-parser,MongoDB and etc.
 <br/>
 Deployment :
