@@ -11,7 +11,7 @@ This 2 projects are made within 24 hours(1 day Project). So, I really want to sa
 <b>Mainly Built with :</b><br/> [NodeJS, Mongodb, ExpressJS, JSON]
 <br/><hr/><br/>
 
-<img src="./40669.gif" width="100%" /><br/>
+<img src="./40698.gif" width="100%" /><br/>
 <b>@TASK 2:Frontend </b><br/><br/>
 <b>Core Functions :</b><br/> CRUD, Authentication system, User permission control, LMS Platform, Author's content ADD,EDIT,UPDATE,DELETE <br/>
 <b>Mainly Built with :</b><br/> [PHP, Bootstrap 4, HTML, CSS, MySql, Restful API, CKEditor]
