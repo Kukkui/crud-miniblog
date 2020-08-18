@@ -1,6 +1,5 @@
 <b>Frontend Freely Design for posted contents&articles. along with CRUD,RestfulAPI,Database and other backend systems.
-<br/>This system the "Authorize status" and "Account credentials" will be classified at the 'Admin' page menu on the left hand side of the screen.
-<br/>If current user are 'ADMIN', the menu will be shown. Otherwise will depend on each different conditions</b><br/>
+<br/>This system the "Authorize status" and "Account credentials" will be classified at the 'Admin' page menu on the left hand side of the screen. If current user are 'ADMIN', the menu will be shown. Otherwise will depend on each different conditions</b><br/><br/>
 @To Run:<br/><br/>
 -1)Run XAMPP or any other tools for localhost/phpmyadmin.<br/>
 -2)Import DB-Table file called 'kklms.sql'.<br/>
